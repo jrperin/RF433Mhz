@@ -20,7 +20,8 @@ Esquema de como ligar o RF433Mhz no Arduino:
 
 # Gravar um ATTiny85 com o programa de controle da placa RF433Mhz
 
-Fazer download dos arquivos de driver (Win/OSx/Linux): 
-[Drivers] (https://sourceforge.net/projects/digistump/files/)
+Procedimento que funcionou para Gravar o ATtiny85 foi utilizando um arduino nano conforme esse site:
+[Link ATtiny85 com Arduino Nano] (http://blog.roguecode.co.za/make-dirt-cheap-electronics-with-attiny45-arduino-nano/)
 
-[Instructable com dica de como utilizar](http://www.instructables.com/id/Digispark-DIY-The-smallest-USB-Arduino/step3/Installing-Digispark-USB-driver/)
+[Esquema do ATtiny Digispark] (http://www.arduinoecia.com.br/2016/11/digispark-attiny85-ide-arduino.html)
+![ATtiny85 Digispark] (https://1.bp.blogspot.com/-zD_UjT5tcDc/WCia5qJ_ZEI/AAAAAAAAF4M/0ygQ7WKx5VYmU-PXkGTj_Dvq-mwm4I7xACLcB/s1600/Digispark_ATtiny85_Pinagem.png)
