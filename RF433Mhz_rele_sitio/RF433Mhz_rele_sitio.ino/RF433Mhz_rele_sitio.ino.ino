@@ -27,8 +27,8 @@ void loop()
 {
   if (rfrecv.available())
   {
-    Serial.println("RECEBIDO!");
-    Serial.println((char*)rfrecv.cmd);
+    //Serial.println("RECEBIDO!");
+    //Serial.println((char*)rfrecv.cmd);
     
     /* VERIFICA SE O BOTAO 1 DO CONTROLE FOI APERTADO */
     if (strncmp((char*)rfrecv.cmd, cmd1, CMD_SIZE) == 0){
