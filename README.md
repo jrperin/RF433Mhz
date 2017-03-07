@@ -22,3 +22,5 @@ Esquema de como ligar o RF433Mhz no Arduino:
 
 Fazer download dos arquivos de driver (Win/OSx/Linux): 
 [Drivers] (https://sourceforge.net/projects/digistump/files/)
+
+[Instructable com dica de como utilizar](http://www.instructables.com/id/Digispark-DIY-The-smallest-USB-Arduino/step3/Installing-Digispark-USB-driver/)
